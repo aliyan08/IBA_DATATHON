@@ -1,0 +1,20 @@
+# Column Name: Description
+
+Investor_ID: A unique alphanumeric code assigned to each investor.
+Age: The investor's age in years.
+Annual_Income: The investor's total income earned throughout a year.
+Investment_Amount: The sum of money invested in a specific opportunity.
+Risk_Tolerance_Score: A numerical representation of the investor's willingness to accept risk (higher scores indicate a greater appetite for risk).
+Months_of_Investing_Experience: The duration of the investor's active participation in investing (in months).
+Number_of_Active_Investments:  The count of different investments the investor currently holds.
+Potential_Return_Rate: The estimated percentage return on an investment.
+Investment_Duration: The intended length of time (in months) the investment will be held.
+Investment-to-Income_Ratio: The ratio of the investment amount compared to the investor's annual income.
+Education:  The investor's highest level of educational attainment.
+Employment_Status: The investor's current employment situation (e.g., full-time, part-time, unemployed).
+Marital_Status: The investor's marital status (e.g., single, married, divorced).
+Owns_Property: Indicates whether the investor owns real estate (Yes/No).
+Has_Dependents: Indicates whether the investor has others who financially rely on them (Yes/No).
+Investment_Sector: The industry or market the investment is focused on (e.g., technology, healthcare, real estate).
+Has_Investment_Advisor: Indicates whether the investor utilizes a professional investment advisor (Yes/No).
+Investment_Failure: Indicates whether a past investment resulted in a loss (Yes(1)/No(0)).
